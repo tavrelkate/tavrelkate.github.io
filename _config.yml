@@ -1,0 +1,12 @@
+title: "My records"
+description: "Thoughs, notes and ideas"
+url: ""
+author:
+  name: "ME"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+lang: en
+permalink: /:year/:month/:day/:title/
